@@ -1,0 +1,16 @@
+C:\Users\Xeon\source\repos\ConsoleApp40\bin\Debug\net5.0\ConsoleApp40.exe
+C:\Users\Xeon\source\repos\ConsoleApp40\bin\Debug\net5.0\ConsoleApp40.deps.json
+C:\Users\Xeon\source\repos\ConsoleApp40\bin\Debug\net5.0\ConsoleApp40.runtimeconfig.json
+C:\Users\Xeon\source\repos\ConsoleApp40\bin\Debug\net5.0\ConsoleApp40.runtimeconfig.dev.json
+C:\Users\Xeon\source\repos\ConsoleApp40\bin\Debug\net5.0\ConsoleApp40.dll
+C:\Users\Xeon\source\repos\ConsoleApp40\bin\Debug\net5.0\ref\ConsoleApp40.dll
+C:\Users\Xeon\source\repos\ConsoleApp40\bin\Debug\net5.0\ConsoleApp40.pdb
+C:\Users\Xeon\source\repos\ConsoleApp40\obj\Debug\net5.0\ConsoleApp40.csproj.AssemblyReference.cache
+C:\Users\Xeon\source\repos\ConsoleApp40\obj\Debug\net5.0\ConsoleApp40.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xeon\source\repos\ConsoleApp40\obj\Debug\net5.0\ConsoleApp40.AssemblyInfoInputs.cache
+C:\Users\Xeon\source\repos\ConsoleApp40\obj\Debug\net5.0\ConsoleApp40.AssemblyInfo.cs
+C:\Users\Xeon\source\repos\ConsoleApp40\obj\Debug\net5.0\ConsoleApp40.csproj.CoreCompileInputs.cache
+C:\Users\Xeon\source\repos\ConsoleApp40\obj\Debug\net5.0\ConsoleApp40.dll
+C:\Users\Xeon\source\repos\ConsoleApp40\obj\Debug\net5.0\ref\ConsoleApp40.dll
+C:\Users\Xeon\source\repos\ConsoleApp40\obj\Debug\net5.0\ConsoleApp40.pdb
+C:\Users\Xeon\source\repos\ConsoleApp40\obj\Debug\net5.0\ConsoleApp40.genruntimeconfig.cache

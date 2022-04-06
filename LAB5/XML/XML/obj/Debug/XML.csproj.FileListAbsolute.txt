@@ -1,0 +1,7 @@
+C:\Users\Xeon\Desktop\1 курс\LAB5\XML\XML\bin\Debug\XML.exe.config
+C:\Users\Xeon\Desktop\1 курс\LAB5\XML\XML\bin\Debug\XML.exe
+C:\Users\Xeon\Desktop\1 курс\LAB5\XML\XML\bin\Debug\XML.pdb
+C:\Users\Xeon\Desktop\1 курс\LAB5\XML\XML\obj\Debug\XML.csproj.AssemblyReference.cache
+C:\Users\Xeon\Desktop\1 курс\LAB5\XML\XML\obj\Debug\XML.csproj.CoreCompileInputs.cache
+C:\Users\Xeon\Desktop\1 курс\LAB5\XML\XML\obj\Debug\XML.exe
+C:\Users\Xeon\Desktop\1 курс\LAB5\XML\XML\obj\Debug\XML.pdb
